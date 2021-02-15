@@ -1,0 +1,8 @@
+site_name: "jkhjkhhhjkyuyii8y"
+site_description: "jkhjkhjkh"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
